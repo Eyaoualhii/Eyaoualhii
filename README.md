@@ -26,12 +26,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/eya oualhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya oualhi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/eya flavors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eya flavors" height="30" width="40" /></a>
-<a href="https://fb.com/eya oualhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eya oualhi" height="30" width="40" /></a>
-<a href="https://instagram.com/eya oualhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eya oualhi" height="30" width="40" /></a>
-<a href="https://www.behance.net/eya oualhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="eya oualhi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eya flavors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eya flavors" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eya-oualhi-09a2771b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya oualhi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14789417/eya-flavors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eya flavors" height="30" width="40" /></a>
+<a href="https://www.facebook.com/eya.oualhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eya oualhi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/eya_oualhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eya oualhi" height="30" width="40" /></a>
+<a href="https://www.behance.net/eyaoualhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="eya oualhi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCO4IRXEryhvVPXAOmySE-sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eya flavors" height="30" width="40" /></a>
 
 
 </p>
